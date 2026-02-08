@@ -1,5 +1,8 @@
-# movie-recommendation-system-ml
-Machine Learning–based Movie Recommendation System using Item-Based Collaborative Filtering on the MovieLens dataset, built in R with recommenderlab and Google Colab.
+# Movie Recommendation System using Item-Based Collaborative Filtering
+
+This project implements a Machine Learning–based Movie Recommendation System that generates personalized movie suggestions using Item-Based Collaborative Filtering. The model analyzes user rating patterns from the MovieLens dataset to identify similarities between movies and recommend relevant titles.
+
+The system demonstrates key machine learning concepts including data preprocessing, similarity computation, recommendation modeling, and predictive output generation. It is developed in R using the recommenderlab package and executed in Google Colab.
 
 # Movie Recommendation System using Machine Learning
 
